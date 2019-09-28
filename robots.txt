@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooliechaib.carboncopi.es/sitemap.xml
